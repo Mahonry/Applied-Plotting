@@ -10,5 +10,5 @@ Los datos para esta tarea provienen de un subconjunto de la Red de Climatología
 Se grafica el registro de temperaturas diarias desde 2005  hasta el 2014, los puntos muestran los días en los cuales en 2015 se rompió el record registrado, la grafica obtenida se muestra a continuación.
 
 <p align="center">
-  <img src="./Assigment 2.png" width="150px">
+  <img src="./Assigment 2.png">
 </p>
